@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Hi there wave
 I am Vadim Vasilev, python developer
 
-📫 mailbox Reach me out at fedor@borshev.com
+📫 mailbox Reach me out at vadim.vasiliev.pro@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeamVeat&show_icons=true&theme=dracula)
