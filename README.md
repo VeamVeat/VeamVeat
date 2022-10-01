@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there wave
 I am Vadim Vasilev, python developer
 
 📫 mailbox Reach me out at vadim.vasiliev.pro@gmail.com
