@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi there wave
+I am Vadim Vasilev, python developer
+
+📫 mailbox Reach me out at fedor@borshev.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeamVeat&show_icons=true&theme=dracula)
