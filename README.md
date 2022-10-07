@@ -21,8 +21,6 @@
 I am Vadim Vasilev, python developer
 </details>
 
-📫 mailbox Reach me out at vadim.vasiliev.pro@gmail.com
-
 ### 🛠️ Programming Languages & Tools:
 
 ##### 💻 Programming languages & Database
