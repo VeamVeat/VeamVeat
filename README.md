@@ -7,7 +7,7 @@
 
 <img align="right" width='50%' height='50%' alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
-### I Am  Work  Python Backend Developera!!
+### I Am  Work  Python Backend Developer!!
 
 - 🔭 Currently learning Python
 - ⏳ Currently exploring Python, Django, DRF, FastAPI
