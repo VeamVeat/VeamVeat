@@ -29,8 +29,6 @@ I am Vadim Vasilev, python developer
 
 <p>
   <img height=40 alt="Python Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Programming_Language/python.png" />
-  <img height=40 alt="HTML5 Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Programming_Language/html.png" />
-   <img height=40 alt="CSS3 Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Programming_Language/css.png" />
 </p>
 
 ##### 🗄️ Cloud and 🧰 Efficiency Tools
