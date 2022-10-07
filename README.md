@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=VeamVeat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
 </p>
 
-<img align="right" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
+<img align="right" width='50%' height='50%' alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
 ### I Am  Work  Python Backend Developera!!
 
@@ -73,10 +73,8 @@ I am Vadim Vasilev, python developer
 </div>
 
 ---
-
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][vadim.vasiliev.pro@gmail.com]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][gmail]
 
 ---
 
-[gmail]: mailto:bdfd2005@gmail.com
-[github repo]: https://www.github.com/VeamVeat
+[gmail]: mailto:vadim.vasiliev.pro@gmail.com
