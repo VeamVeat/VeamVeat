@@ -27,6 +27,7 @@ I am Vadim Vasilev, python developer
 
 <p>
   <img height=40 alt="Python Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Programming_Language/python.png" />
+  <img src="https://en.wikipedia.org/wiki/PostgreSQL" />
 </p>
 
 ##### 🗄️ Cloud and 🧰 Efficiency Tools
