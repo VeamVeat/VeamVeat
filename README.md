@@ -18,7 +18,7 @@
 <details>
   <summary><b>✨ More About Me</b></summary>
   <br/>
-I am Vadim Vasilev, python developer
+I am Vadim Vasiliev, python developer
 </details>
 
 ### 🛠️ Programming Languages & Tools:
