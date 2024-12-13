@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My resume -> https://rostov.hh.ru/resume/2dbec954ff0b6e48f50039ed1f74755735536a
+
 <p align="left">
   <img src="https://img.shields.io/github/followers/VeamVeat?label=Follow%20Me&logo=github" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=VeamVeat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
@@ -64,5 +64,7 @@ I am Vadim Vasiliev, python developer
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][gmail]
 
 ---
+
+### My resume -> https://rostov.hh.ru/resume/2dbec954ff0b6e48f50039ed1f74755735536a
 
 [gmail]: mailto:vadim.vasiliev.pro@gmail.com
